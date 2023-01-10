@@ -125,7 +125,7 @@ public class Login extends javax.swing.JFrame {
             } catch (Exception e) {
             }
         }
-    }//GEN-LAST:event_jButton1ActionPerformed
+    }
 
     
     public static void main(String args[]) {
